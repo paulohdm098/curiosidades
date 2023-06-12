@@ -7,14 +7,19 @@ h1{font-size: 250;}
 h2{text-align: center;}
 
 #branco {margin-left: 46%;}
+#branco {border:solid red ;}
 
 #sol {margin-left: 49%;}
+#sol {border:solid red ;}
 
 #diamante {margin-left: 39%;}
+#diamante {border:solid red ;}
 
 #saturno{ margin-left: 59%;}
+#saturno {border:solid red ;}
 
 #russa { margin-left: 49%;}
+#russa {border:solid red ;}
 
 h3 {color:green}
 

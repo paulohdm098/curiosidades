@@ -10,6 +10,10 @@ h1{font-size: 250;}
 
 h2{text-align: center;}
 
+h3{text-align: center;}
+
+h3{font-size: 350;}
+
 #branco {margin-left: 30%;}
 #branco {border:solid  red ;}
 #branco {width: 45%;}
@@ -35,7 +39,9 @@ h2{text-align: center;}
 #russa {border:solid  red ;}
 #russa {width: 45%;}
 h2 {color:rgb(255, 255, 255)}
+h3{color:rgb(255, 255, 255)}
 
 body {background-color: rgb(0, 0, 0);}
 
+a{font-size: 250;}
 
